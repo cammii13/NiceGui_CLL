@@ -19,4 +19,3 @@ w-60 m-auto provienen de Tailwind CSS y se aplican al contenedor principal son l
 w-full significa "width: 100%". Su objetivo principal es obligar al elemento a expandirse hasta ocupar todo el ancho disponible de su contenedor padre.
 
 La clase bg-blue-500 es una utilidad de Tailwind CSS que define el color de fondo de un elemento.
-S
